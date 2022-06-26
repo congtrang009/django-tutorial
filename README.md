@@ -1,11 +1,1 @@
-# How to init a django project?
-
-# Install python
-
-# $: pip install django
-# $: django-admin startproject demo
-# $: cd demo
-# $: python manage.py migrate
-# $: python manage.py runserver 8888
-
-# http://localhost:88888
+Hướng dẫn tạo project Django đầu tiên [link](https://github.com/congtrang009/django-tutorial/wiki/2.-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-t%E1%BA%A1o-project-Django-%C4%91%E1%BA%A7u-ti%C3%AAn)
