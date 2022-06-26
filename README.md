@@ -2,3 +2,7 @@ Hướng dẫn tạo project Django đầu tiên [link](https://github.com/congt
 
 > * Pull Request ([link](https://github.com/congtrang009/django-tutorial/pull/4))
 > * Branch ([link](https://github.com/congtrang009/django-tutorial/tree/0-django-startproject-demo/implement))
+
+[Hướng dẫn tạo app trong project Django](https://github.com/congtrang009/django-tutorial/wiki/3.-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-t%E1%BA%A1o-app-trong-project-Django)
+
+
